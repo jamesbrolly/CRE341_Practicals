@@ -9,6 +9,9 @@ TagManager:
   - Walls
   - NPC
   - Waypoint
+  - Flocker
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX
